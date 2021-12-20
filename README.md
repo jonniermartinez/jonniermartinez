@@ -18,9 +18,7 @@ Hi, I'm Jonnier Martinez, a passionate self-taught Full Stack web developer and 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/Jonniermartinez);
-- 📝 [Resume]()   /*...*/
+
 
 
 **Languages and Tools:**  
