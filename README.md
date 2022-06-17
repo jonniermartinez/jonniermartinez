@@ -14,8 +14,12 @@
  
 ## 📌 Pinned Repositories
 
+<br>
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=vue)](https://github.com/jonniermartinez/wordle)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=vue)](https://github.com/jonniermartinez/wordle)
 
+<br>
 
 ## Languages and Technologies:
 
