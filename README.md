@@ -2,7 +2,6 @@
   
 # Hi there I'm Jonnier👋🏽
 
-### I'm a Frontend Developer
 🤓 I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend.
   
  Want to know more about me? Check out [my portfolio.](https://www.jonniermartinez.com/)
