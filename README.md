@@ -18,7 +18,10 @@
 
 
 ## Languages and Technologies:
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=gruvbox)
 
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=gruvbox)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=gruvbox)
+
+<br>
