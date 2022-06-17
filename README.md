@@ -14,14 +14,14 @@
  
 ## 📌 Pinned Repositories
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=gruvbox)](https://github.com/jonniermartinez/wordle)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=vue)](https://github.com/jonniermartinez/wordle)
 
 
 ## Languages and Technologies:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=gruvbox)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=vue)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=vue)
 
 <br>
