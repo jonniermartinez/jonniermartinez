@@ -12,14 +12,14 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonnier-alejandro-martinez-sanchez/)
 
 </div>
-
-## Languages and Technologies:
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=gruvbox)
- 
  
 ## 📌 Pinned Repositories
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=gruvbox)](https://github.com/jonniermartinez/wordle)
+
+
+## Languages and Technologies:
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=gruvbox)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=gruvbox)
