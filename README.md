@@ -19,5 +19,7 @@
  
 ## 📌 Pinned Repositories
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=gruvbox)](https://github.com/jonniermartinez/wordle)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=gruvbox)
