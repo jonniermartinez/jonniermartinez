@@ -18,6 +18,7 @@
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=vue)](https://github.com/jonniermartinez/wordle)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=Rick&theme=vue)](https://github.com/jonniermartinez/Rick)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=twitter-clone&theme=vue)](https://github.com/jonniermartinez/twitter-clone)
 
 
 <br>
