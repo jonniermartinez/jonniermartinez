@@ -17,11 +17,11 @@
 </h2>
 
 <p align="center">
-  <a href="" title="WordleClone | Jonnier Martinez">
-     <img width="45%" src=""> 
+  <a href="https://rick-project-jonnier.netlify.app/" title="Rick and Morty | Jonnier Martinez">
+     <img width="45%" src="./rick.PNG"> 
   </a>
-  <a href="" title="WordleClone | Jonnier Martinez">
-     <img width="45%" src=""> 
+  <a href="https://twitter-clone-jonnier.netlify.app/" title="TwitterClone | Jonnier Martinez">
+     <img width="45%" src="./twitter.PNG"> 
   </a>
 </p>
 <!--
