@@ -5,7 +5,7 @@
       <br>
 </h1>
 <p align="center">
-🤓 I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend. Want to know more about me? Check out [my portfolio.](https://www.jonniermartinez.com/)
+🤓 I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend. Want to know more about me? Check out <a href="https://www.jonniermartinez.com/">my portfolio.</a>
  </p>
 
 
