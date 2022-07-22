@@ -1,33 +1,35 @@
 <div>
   
-# Hi there I'm Jonnier👋🏽
+<h1 align="center">
+    Hi there I'm Jonnier👋🏽
+      <br>
+</h1>
+<p align="center">
+🤓 I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend. Want to know more about me? Check out [my portfolio.](https://www.jonniermartinez.com/)
+ </p>
 
-🤓 I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend.
-  
- Want to know more about me? Check out [my portfolio.](https://www.jonniermartinez.com/)
- 
-[![Visits Badge](https://badges.pufler.dev/visits/jonniermartinez/jonniermartinez)](https://www.jonniermartinez.com/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jonniermartinez)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jonnier-alejandro-martinez-sanchez/)
 
 </div>
  
-## 📌 Pinned Repositories
+<h2 align="center">
+  <br>
+    📌 Pinned Repositories
+</h2>
 
-<br>
+<p align="center">
+  <a href="" title="WordleClone | Jonnier Martinez">
+     <img width="45%" src=""> 
+  </a>
+  <a href="" title="WordleClone | Jonnier Martinez">
+     <img width="45%" src=""> 
+  </a>
+</p>
+<!--
+<p align="center">
+  <a href="" title="">
+      <img width="45%" src="">
+      <img width="45%" src="">  
+  </a>
+</p>
+-->
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=wordle&theme=vue)](https://github.com/jonniermartinez/wordle)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=Rick&theme=vue)](https://github.com/jonniermartinez/Rick)
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=jonniermartinez&repo=twitter-clone&theme=vue)](https://github.com/jonniermartinez/twitter-clone)
-
-
-<br>
-
-## Languages and Technologies:
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonniermartinez&show_icons=true&theme=vue)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact&theme=vue)
-
-<br>
