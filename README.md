@@ -21,7 +21,7 @@
      <img width="45%" src="./rick.PNG"> 
   </a>
   <a href="https://github.com/jonniermartinez/twitter-clone" title="TwitterClone | Jonnier Martinez">
-     <img width="45%" src="./twitter.PNG"> 
+     <img width="45%" src="./Diseño sin título.png"> 
   </a>
 </p>
 <!--
