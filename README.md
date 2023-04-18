@@ -25,7 +25,6 @@
      <img width="45%" src="./Diseño sin título.png"> 
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonniermartinez&layout=compact)](https://github.com/jonniermartinez)
 <!--
 <p align="center">
   <a href="" title="">
